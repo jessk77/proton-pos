@@ -8,6 +8,8 @@ Se encuentra desarrollado en PHP bajo el framework de codeigniter, BD en MySQL y
 
   - Manejo de almacen de productos (inventario).
   - Creación de etiquetado.
+  - Catálogos de Proveedores y clientes.
+  - Gastos.
   - Interfaz de ventas.
   - Cancelaciones.
   - Reportes: graficos y por registros. 
